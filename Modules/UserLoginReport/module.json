@@ -1,0 +1,13 @@
+{
+    "name": "UserLoginReport",
+    "alias": "userloginreport",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\UserLoginReport\\Providers\\UserLoginReportServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
